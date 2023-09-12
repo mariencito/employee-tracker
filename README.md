@@ -21,7 +21,7 @@
 ## How to Contribute
     You can download the files and add onto it if you would like.
 ## Tests
-    I added myself through the application
+    I ran a couple test but just to see if it is working.
 ## Questions
     https://github.com/mariencito
     You can email me at mariencastellanosjr@gmail.com
